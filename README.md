@@ -22,3 +22,8 @@ Requisitos: Android 7 ou superior, aparelho com suporte a aplicativos ARM64 ou x
 - VIPs e encomendas integrados ao preparo e à entrega.
 
 Este repositório distribui instaladores e notas de versão. O código-fonte do jogo não é publicado aqui.
+
+## Instalar pelo QR code
+
+![QR code para baixar o APK](https://github.com/samulzz/imperio-da-confeitaria-downloads/releases/latest/download/QR-Instalar.png)
+
