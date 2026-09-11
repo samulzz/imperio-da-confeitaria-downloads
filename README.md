@@ -14,12 +14,14 @@ Para atualizar, instale o novo APK por cima da versão anterior. Não desinstale
 
 Requisitos: Android 7 ou superior, aparelho com suporte a aplicativos ARM64 ou x86_64. Internet necessária somente para baixar e atualizar.
 
-## Versão 1.1.3
+## 1.1.4 — Clareza e interação
 
-- Preços e recompensas revisados; reposição automática opcional de ingredientes.
-- Expansões aumentam a loja e liberam setores com objetivos definidos.
-- Pedidos com quantidades e combinações variadas.
-- VIPs e encomendas integrados ao preparo e à entrega.
+- Funcionários mostram tarefa atual, capacidade e comparação de velocidade e tempo antes de treinar. Toque no chef para abrir sua equipe.
+- Fiscalização acontece no sofá, na mesa e no balcão. Superaquecimento é resolvido tocando na máquina marcada.
+- Tutorial interativo do primeiro pedido; treino disponível pela ajuda para partidas existentes.
+- Falta de ingredientes aparece em destaque, com reposição e coleta de caixa acessíveis.
+- Correções de circulação após entregas e durante superaquecimento; migração dos trajetos antigos.
+- Avisos de eventos recolhem após 3,5 segundos para um ícone com cronômetro. Toque para reabrir.
 
 Este repositório distribui instaladores e notas de versão. O código-fonte do jogo não é publicado aqui.
 
